@@ -39,8 +39,8 @@ body {
 }
 .portfolio-modal .close-modal {
   position: absolute;
-  width: 75px;
-  height: 75px;
+  width: 44px;
+  height: 44px;
   background-color: transparent;
   top: 25px;
   right: 25px;
@@ -50,9 +50,9 @@ body {
   opacity: 0.3;
 }
 .portfolio-modal .close-modal .lr {
-  height: 75px;
+  height: 44px;
   width: 1px;
-  margin-left: 35px;
+  margin-left: 25px;
   background-color: #2C3E50;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
@@ -62,7 +62,7 @@ body {
   z-index: 1051;
 }
 .portfolio-modal .close-modal .lr .rl {
-  height: 75px;
+  height: 44px;
   width: 1px;
   background-color: #2C3E50;
   transform: rotate(90deg);
