@@ -274,6 +274,9 @@ hr.small {
 .img-portfolio:hover {
     opacity: 0.8;
 }
+.img-profile:hover {
+    opacity: 0.8;
+}
 
 .img-centered {
   margin: 0 auto;
